@@ -1,0 +1,61 @@
+
+Available options:
+
+        --email EMAIL
+        --user EMAIL
+        --passwd PASS
+        --pass PASS
+        --password PASS
+        --token-file TOKEN_FILE
+        --app NAME
+        --name NAME
+        --plan NAME
+        --bind BIND
+        --instance INST
+        --instances INST
+        --url URL
+        --mem MEM
+        --path PATH
+        --no-start
+        --nostart
+        --force
+        --all
+    -t [TKEY]
+        --trace [TKEY]
+    -d [MODE]
+        --debug [MODE]
+    -m FILE
+        --manifest FILE
+    -q, --quiet
+        --vmx FILE
+        --vmrun FILE
+        --save
+        --no-zip
+        --nozip
+        --no-resources
+        --noresources
+        --no-color
+        --verbose
+    -n, --no-prompt
+        --noprompt
+        --non-interactive
+        --prefix
+        --prefix-logs
+        --prefixlogs
+        --json
+    -v, --version
+    -h, --help
+        --port PORT
+        --runtime RUNTIME
+        --timeout TIMEOUT
+    -f, --framework FRAMEWORK
+        --exec EXEC
+        --noframework
+        --canary
+    -u PROXY
+        --DBName DBNAME
+        --MasterUsername USER
+        --MasterUserPassword PASS
+        --options
+
+
